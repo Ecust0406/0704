@@ -14,9 +14,6 @@
       /sensor/cameraRear195/image_raw/compressed
       /sensor/cameraLeft195/image_raw/compressed
       /sensor/cameraRight195/image_raw/compressed
-      /sensor/camera/front_center_fov100/image_raw/compressed
-      /sensor/camera/front_center_fov50/image_raw/compressed
-      /sensor/camera/front_center_fov30/image_raw/compressed
       /navi/fusion
       /tf
       /tf_static
