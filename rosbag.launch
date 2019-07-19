@@ -73,6 +73,7 @@
       /forward_recorder/recording_state
       /forward_recorder/recording_ipc_state
       /fusion_traffic_light_report 
+      /lidar300
       "/>
       
 </launch>
